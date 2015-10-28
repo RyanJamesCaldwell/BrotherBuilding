@@ -3,10 +3,7 @@
 
 import random
 
-brother_names = ["Nick Orbash", "Adam Rumer", "Dylan Rhodes", "Nick Contestabile", "Ryan Naylor", "Pat Loedding", "Andy Howland",
-                 "Justin Hopf", "Paul Hedzik", "Chris Gordon", "Dillon Frazier", "Bryan Deal", "Logan Campbell", "Jake Haberman",
-                 "Seth Stinson", "Rex Gregory", "Chris DeSanti", "Jose Arocho", "Brooks Truel", "Shane Schliefer", "Brandon Kraeer",
-                 "Ian Besong", "Connor Himich", "Ryan Caldwell", "Brandon Fuhs", "Dan Kaufman", "Alex Hvizdos", "Ashley Felmlee"]
+brother_names = ["Add", "Brother", "Names", "Here"]
 
 numBrothers = len(brother_names)
 
